@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\prakticheskayaa3\prakticheskayaa3\bin\Debug\net6.0\prakticheskayaa3.exe
+C:\Users\User\source\repos\prakticheskayaa3\prakticheskayaa3\bin\Debug\net6.0\prakticheskayaa3.deps.json
+C:\Users\User\source\repos\prakticheskayaa3\prakticheskayaa3\bin\Debug\net6.0\prakticheskayaa3.runtimeconfig.json
+C:\Users\User\source\repos\prakticheskayaa3\prakticheskayaa3\bin\Debug\net6.0\prakticheskayaa3.dll
+C:\Users\User\source\repos\prakticheskayaa3\prakticheskayaa3\bin\Debug\net6.0\prakticheskayaa3.pdb
+C:\Users\User\source\repos\prakticheskayaa3\prakticheskayaa3\obj\Debug\net6.0\prakticheskayaa3.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\prakticheskayaa3\prakticheskayaa3\obj\Debug\net6.0\prakticheskayaa3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\prakticheskayaa3\prakticheskayaa3\obj\Debug\net6.0\prakticheskayaa3.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\prakticheskayaa3\prakticheskayaa3\obj\Debug\net6.0\prakticheskayaa3.AssemblyInfo.cs
+C:\Users\User\source\repos\prakticheskayaa3\prakticheskayaa3\obj\Debug\net6.0\prakticheskayaa3.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\prakticheskayaa3\prakticheskayaa3\obj\Debug\net6.0\prakticheskayaa3.dll
+C:\Users\User\source\repos\prakticheskayaa3\prakticheskayaa3\obj\Debug\net6.0\refint\prakticheskayaa3.dll
+C:\Users\User\source\repos\prakticheskayaa3\prakticheskayaa3\obj\Debug\net6.0\prakticheskayaa3.pdb
+C:\Users\User\source\repos\prakticheskayaa3\prakticheskayaa3\obj\Debug\net6.0\prakticheskayaa3.genruntimeconfig.cache
+C:\Users\User\source\repos\prakticheskayaa3\prakticheskayaa3\obj\Debug\net6.0\ref\prakticheskayaa3.dll
